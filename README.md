@@ -1,4 +1,4 @@
-Laravel 10 
+  Laravel 10 
 
 Project Idea
 
